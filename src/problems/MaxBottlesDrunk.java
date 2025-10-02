@@ -23,7 +23,7 @@ public class MaxBottlesDrunk {
             numBottles += add;
 
             if (numBottles == 0){
-                return haveDrunk + numBottles;
+                return haveDrunk;
             }
 
             add = 0;

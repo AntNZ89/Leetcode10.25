@@ -21,7 +21,7 @@ public class NumWaterBottles {
             numBottles += add;
 
             if (numBottles == 0){
-                return haveDrunk + numBottles;
+                return haveDrunk;
             }
 
         }
