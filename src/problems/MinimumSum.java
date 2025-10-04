@@ -5,7 +5,6 @@ import java.util.Arrays;
 public class MinimumSum {
     public int minimumSum(int num) {
 
-        String nums = "" + num;
         int[] ar = new int[4];
 
         for (int i = 0 ; i < ar.length ; i++){
